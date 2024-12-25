@@ -51,9 +51,9 @@ This file outlines how others can contribute to your project. You can customize 
 
 markdown
 Copy code
-# Contributing to [Project Name]
+# Contributing to [Civic-Engagement-App]
 
-Thank you for your interest in contributing to [Project Name]! We appreciate your effort to improve this project and help us create a better tool for [your project's goal, e.g., civic engagement through AR/VR and blockchain].
+Thank you for your interest in contributing to [Civic-Engagement-App]! We appreciate your effort to improve this project and help us create a better tool for [your project's goal, e.g., civic engagement through AR/VR and blockchain].
 
 Please follow the guidelines below to help ensure that your contributions align with the project's goals.
 
@@ -100,7 +100,7 @@ Copy code
 # Command to run tests (add your specific test command here)
 
 Questions or Feedback?
-If you have any questions, feel free to reach out via [your contact method] (see below). We appreciate all contributions!
+If you have any questions, feel free to reach out via lancecamelotsiriusb@gmail.com (see below). We appreciate all contributions!
 
 Thank you for your help!
 
