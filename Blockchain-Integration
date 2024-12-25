@@ -1,0 +1,23 @@
+pragma solidity ^0.8.0;
+
+contract BodyActivityReward {
+    address public owner;
+    mapping(address => uint) public activityRewards;
+
+    event RewardIssued(address indexed user, uint reward);
+
+    constructor() {
+        owner = msg.sender;
+    }
+
+    function issueReward(address user, uint activityScore) public {
+        require(msg.sender == owner, "Only owner can issue rewards");
+        uint rewardAmount = activityScore * 10;
+        activityRewards[user] += rewardAmount;
+        emit RewardIssued(user, rewardAmount);
+    }
+
+    function checkRewardBalance(address user) public view returns (uint) {
+        return activityRewards[user];
+    }
+}
