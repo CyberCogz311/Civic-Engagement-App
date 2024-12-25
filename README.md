@@ -47,3 +47,10 @@ export default function ActivityTracker() {
     </View>
   );
 }
+
+## Contact
+
+If you have any questions, ideas, or feedback, feel free to reach out to me:
+- Email: lancecamelotsiriusb@gmail.com
+
+
