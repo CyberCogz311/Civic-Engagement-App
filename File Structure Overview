@@ -1,0 +1,15 @@
+Civic-Engagement-App/
+│
+├── README.md
+├── app/
+│   ├── App.js
+│   ├── components/
+│   │   ├── ActivityTracker.js
+│   └── utils/
+│       ├── web3.js
+│
+├── smart_contracts/
+│   ├── BodyActivityReward.sol
+│
+├── .gitignore
+└── package.json
